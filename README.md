@@ -46,7 +46,7 @@ The dataset is highly unbalanced, the positive class (frauds) account for 0.172%
 
     **A** The percentage of fradulent transactions (0.172%) very less, thus we have an highly imbalanced dataset.
 
-    ![Data Chart 1]("C:/Users/sunny/Desktop/Capstone Project/Images/bar_chart.png")
+    ![bar_chart](https://github.com/user-attachments/assets/6257cefa-aeb5-4a0a-840b-55f3747ec7d4)
 
 * #### Amount per transaction by class.
 
